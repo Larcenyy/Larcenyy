@@ -49,9 +49,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Larcenyy&style=for-the-badge)
 
-<h3 align="left">Mes écoutes du moments : </h3>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=hugoc-313&unique={true|1|on|yes})
 
 <h3 align="left">Suivez moi également sur : </h3>
 <p align="left">
